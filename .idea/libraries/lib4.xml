@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tianti-modules/tianti-module-admin/src/main/webapp/WEB-INF/lib/ueditor-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tianti-modules/tianti-module-admin/src/main/webapp/WEB-INF/lib/statistics-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tianti-modules/tianti-module-admin/src/main/webapp/WEB-INF/lib/springside-core-4.2.2.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tianti-modules/tianti-module-admin/src/main/webapp/WEB-INF/lib/pager-taglib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tianti-modules/tianti-module-admin/src/main/tianti-admin.iml" filepath="$PROJECT_DIR$/tianti-modules/tianti-module-admin/src/main/tianti-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-cms/src/main/tianti-cms.iml" filepath="$PROJECT_DIR$/tianti-cms/src/main/tianti-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-common/src/main/tianti-common.iml" filepath="$PROJECT_DIR$/tianti-common/src/main/tianti-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-modules/tianti-module-interface/src/main/tianti-interface.iml" filepath="$PROJECT_DIR$/tianti-modules/tianti-module-interface/src/main/tianti-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-modules/tianti-module-gateway/tianti-module-gateway.iml" filepath="$PROJECT_DIR$/tianti-modules/tianti-module-gateway/tianti-module-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-org/src/main/tianti-org.iml" filepath="$PROJECT_DIR$/tianti-org/src/main/tianti-org.iml" />
+    </modules>
+  </component>
+</project>

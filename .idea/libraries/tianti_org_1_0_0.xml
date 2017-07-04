@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tianti-org-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tianti-org/target/tianti-org-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
